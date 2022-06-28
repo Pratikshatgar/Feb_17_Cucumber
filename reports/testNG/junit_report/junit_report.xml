@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<testsuite errors="0" failures="0" name="io.cucumber.core.plugin.JUnitFormatter" skipped="0" tests="1" time="13.245">
+<testcase classname="Login page Feature" name="Validate login" time="12.987">
+<system-out><![CDATA[Given User is on login Page and it is already resistered....................passed
+Then Username field is displayed............................................passed
+And Continue button is displayed............................................passed
+When user enters Username as"pratik.shatgar1@gmail.com".....................passed
+And Click on Continue button................................................passed
+Then Password field is displayed............................................passed
+And Amazon Logo is displayed................................................passed
+And ForgotPassword link is displayed........................................passed
+And Keep me signed in checkbox is displayed.................................passed
+And Sign In button is displayed.............................................passed
+When user enters Password as"9921279238"....................................passed
+And Click on SignIn button..................................................passed
+]]></system-out>
+</testcase>
+</testsuite>
